@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "前三章知识整合", "前三章知识整合.vcxproj", "{EC1FC620-A0A1-4E74-8389-EA9548F7B966}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC1FC620-A0A1-4E74-8389-EA9548F7B966}.Debug|x64.ActiveCfg = Debug|x64
+		{EC1FC620-A0A1-4E74-8389-EA9548F7B966}.Debug|x64.Build.0 = Debug|x64
+		{EC1FC620-A0A1-4E74-8389-EA9548F7B966}.Debug|x86.ActiveCfg = Debug|Win32
+		{EC1FC620-A0A1-4E74-8389-EA9548F7B966}.Debug|x86.Build.0 = Debug|Win32
+		{EC1FC620-A0A1-4E74-8389-EA9548F7B966}.Release|x64.ActiveCfg = Release|x64
+		{EC1FC620-A0A1-4E74-8389-EA9548F7B966}.Release|x64.Build.0 = Release|x64
+		{EC1FC620-A0A1-4E74-8389-EA9548F7B966}.Release|x86.ActiveCfg = Release|Win32
+		{EC1FC620-A0A1-4E74-8389-EA9548F7B966}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {276C81B8-B978-4BF2-A732-61F3FF16821C}
+	EndGlobalSection
+EndGlobal
