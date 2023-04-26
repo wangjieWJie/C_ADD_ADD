@@ -129,3 +129,7 @@ google-services.json
 *.ipch
 *.vsidx
 *.lock
+*.VC.db
+.suo
+
+/C++ primer plus/前三章知识整合/.vs

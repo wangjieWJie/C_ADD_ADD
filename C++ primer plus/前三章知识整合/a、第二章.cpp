@@ -24,6 +24,7 @@ int main()
 	char* p_wenzi = &wenzi[0];
 	cout << "这是输出\"wenzi[0]\"的地址p_wenzi的结果:" << p_wenzi << endl;
 		//结果他们是相同的，说明p_wenzi和wenzi都是将第一个元素输出之后，cout会接着向后索检直至遇见 \0 为止。
+		//书面介绍为: 在cout和多数C++表达式中，char数组名、char指针以及用引号括起来的字符串常量都被解释为字符串第一个字符的地址，然后向后找 \0 
 
 
 
