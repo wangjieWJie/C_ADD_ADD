@@ -3,7 +3,7 @@
 #include<fstream>
 #include<cstring>
 
-int main()
+int main1()
 {
 	char cccin{};
 	char chin[80]{ "abcdefgh" };
@@ -16,16 +16,18 @@ int main()
 	{
 		a_outfile << "第" << i << "天的房价是：\n";
 	}
-	std::cin.getline(stin,90);
+	a_infile.getline(chin, 80);
+	//std::cin.getline(a_infile,chin);
 	for (int i{}; i <= 57; i++)
 	{
-//		a_infile >> chin;
+		//a_infile >> chin;
 		//a_infile >> stin;
-		a_infile >> cccin;
-		a_infile.getline(chin, 80);
+		//a_infile >> cccin;
+		//a_infile.getline(chin, 80);
+
 		std::cout << chin << std::endl;
-		std::cout << stin;
-		std::cout << cccin;
+		//std::cout << stin;
+		//std::cout << cccin;
 	}
 
 

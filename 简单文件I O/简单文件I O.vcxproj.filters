@@ -18,5 +18,8 @@
     <ClCompile Include="文件I O.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="另寻它法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
