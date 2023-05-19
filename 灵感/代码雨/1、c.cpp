@@ -8,7 +8,7 @@ using namespace std;
 
 const int speece = 50;
 
-int main()
+int main1()
 {
 	unsigned seed;                      //该算法需要一个起始值，称为种子，以生成数字。如果没有给出一个种子，那么它将在每次运行时产生相同的数字流。
 	seed = time(0);        //time 函数返回从 1970 年 1 月 1 日午夜开始到现在逝去的秒数，因此每次运行程序时，它都将提供不同的种子值.请注意，在调用它时必须给它传递一个参数 0。
