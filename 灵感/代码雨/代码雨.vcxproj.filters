@@ -21,5 +21,8 @@
     <ClCompile Include="2、c.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="乱码雨.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

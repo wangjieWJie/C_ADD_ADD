@@ -13,7 +13,7 @@ const int COL = 300;
 const int MaxCol = 20;
 const int MaxRow = 20;
 
-int main()
+int main2222()
 {
 	system("mode con:cols=100 lines");
 
