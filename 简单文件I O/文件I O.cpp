@@ -30,6 +30,10 @@ int main1()
 		//std::cout << cccin;
 	}
 
+	a_outfile.close();      //记得关闭文件
+	a_infile.close();       
 
 	return 0;
 }
+
+//这是一个文本文件操作，只能操作txt文件，其他文件操作后可能会损坏
